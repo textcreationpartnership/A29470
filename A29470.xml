@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief reflections upon the inconveniencies attending wilful and malitious forgery and perjury with some reasons why such crimes ought to be made felony / by a truly loyal subject, and a sincere lover of his King, country, and the laws of this realm.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29470</idno>
+            <idno type="STC">Wing B4620</idno>
+            <idno type="STC">ESTC R41280</idno>
+            <idno type="EEBO-CITATION">31354775</idno>
+            <idno type="OCLC">ocm 31354775</idno>
+            <idno type="VID">110256</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29470)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110256)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1735:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Brief reflections upon the inconveniencies attending wilful and malitious forgery and perjury with some reasons why such crimes ought to be made felony / by a truly loyal subject, and a sincere lover of his King, country, and the laws of this realm.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Mark Pardoe ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Forgery --  England.</term>
+               <term>Perjury --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:110256:1" rendition="simple:additions"/>
+            <head>
+               <hi>Brief Reflections</hi> Upon the Inconveniencies attending Wilful and Malitious Forgery and Perjury, With ſome REASONS why ſuch Crimes Ought to be made FELONY.</head>
+            <head type="sub">By a Truly Loyal Subject, and a Sincere Lover of his KING, Country, And the LAWS of this Realm.</head>
+            <p>THeſe two pernicious and inſeperable Companions of For<g ref="char:EOLhyphen"/>gery and Perjury, like poiſenous Vermin, have often ſucked out, and deſtroyed the very juyce and beauty of many flouriſhing flowers; nor hath the Royal Oake eſcaped be<g ref="char:EOLhyphen"/>ing incompaſſed about with the malignant Ivie of thoſe horrid Crimes, even to that dangerous degree of Rebels, gaining a Point almoſt fit for laying their fatal Axes to the root of that Sacred Tree.</p>
+            <p>To diſcourſe of the late grand Impoſtors of State, or their flagitious practices, would be a task too tedious for me, or my preſent purpoſe; and only fit for an Age more ſtupid, and leſs capable of obſervation, and rati<g ref="char:EOLhyphen"/>onal Sentiments than this.</p>
+            <p>Their unparallel'd Villanies, are now become too apparent to every diſcerning eye, either to be queſtioned or doubted; for 'tis moſt certain, that the extravagant pranks and projects of thoſe Monſters, ſtill beat ve<g ref="char:EOLhyphen"/>ry convincingly intenſe, upon the Nerves and intellectual parts of all truly Loyal and unprejudiced Subjects, who now perhaps cannot but reckon it a very great blemiſh to the Engliſh Air, that ever ſuch Miſcre<g ref="char:EOLhyphen"/>ants ſhould have the happineſs of breathing in it.</p>
+            <p>And if there be any reaſon to find fault with the imperfection or defi<g ref="char:EOLhyphen"/>ciency of the Statute-Laws of this Realm in Criminal Caſes, (which un<g ref="char:EOLhyphen"/>doubtedly are otherwiſe the beſt and moſt rational Laws in the world) 'tis principally becauſe there are none yet ſevere enough againſt the per<g ref="char:EOLhyphen"/>nicious and dangerous Crimes of wilful Forgery and Perjury.</p>
+            <p>For if a Thief ſteal a Horſe, or a Mare, or but the value of two or three ſhillings, 'tis Felony, and by the Law he ought to die for that Offence; but if a pack of Rogues joyn together, and by Forgery and Perjury ruine men in their Reputations &amp; Eſtates, they are uſually only exalted to ſtand in the Pillory, or Fined, or Impriſon'd for't: which minute puniſhment, ſeldom produces any other effect than barely to make the Criminal the more incorrigible, and proves many times but as Sawce to craving Sto<g ref="char:EOLhyphen"/>machs, preparing them the better to devour and conſume the next dain<g ref="char:EOLhyphen"/>ties they can meet with, never ſcrupling to make a prey of mens Lives and Fortunes, though the ungodly and illegal diſinheirſinof Kings, the un<g ref="char:EOLhyphen"/>hinging of Monarchy, and the utter deveſtation and deſtruction of King<g ref="char:EOLhyphen"/>doms, Societies, and Families, ſhould inevitably fall into the bargain, and therefore if an Argument drawn <hi>ab inconvenienti</hi> (which is generally held to be very force <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) ought to have any power in any Caſe, certainly it ought to have ſo in
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his, to make wilful and malitious Forgery and Perjury Felo<g ref="char:EOLhyphen"/>ny:
+<pb n="2" facs="tcp:110256:2"/>For 'tis almoſt impoſſible almoſt to prove (ſuppoſe what you will) that greater inconveniencies will attend the making of ſuch Crimes Felony, than have attended, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o may be ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ared will attend the not making of them ſo.</p>
+            <p>That many particular perſons have ſeverely ſmarted in their Reputa<g ref="char:EOLhyphen"/>tions and Eſtates, as well as the Kingdom in general, by Forgery and Per<g ref="char:EOLhyphen"/>jury, 'tis preſumed will not be denied by any judicious, obſerving, and thoughtful man<g ref="char:punc">▪</g> Nor durſt I preſume any man ſo totally unacquainted with the Affairs of this World, but either he knows or hath heard wha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> havock and miſchief thoſe two abominable and deſtructive ſins have made amongſt the Widdows and Orphans of this Age.</p>
+            <p>However, that you may be furniſhed with ſome few freſh inſtances of that kind (for to give you all, as 'tis impoſſible, ſo 'twere fitter for a large Volume than the narrow compaſs of a ſheet of Paper) I am obliged to aſſure you (particular inſtances of matter of Fact, being the moſt cogent and prevailing Arguments) that two perſons of good Quality and Reputa<g ref="char:EOLhyphen"/>tion, have been lately damnified and prejudiced in their Eſtates, to the va<g ref="char:EOLhyphen"/>lue of at leaſt 3000 <abbr>
+                  <hi>l.</hi>
+               </abbr> in different Caſes, by the Male-contrivance and falſe Oaths of common Hackney-Swearers and Knights of the Poſt, who with their Confederates and Abbettors (after many years proſecution <hi>(in forma pauperis)</hi> of the Perſons and Executors whom they have ſo <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roſly abuſed, and oppreſſed) are at laſt found out and detected; and now it appears, that the Deeds and Inſtruments in writing by them ſet up (and whereon Verdicts and Judgments at Law for great ſums of money were obtained) were actually forged, ſeveral months after the Deaths of the Perſons and Teſtators, whole Deeds they were pretended to be; though ſo cunningly and artificially contrived, as to bear date many years be<g ref="char:EOLhyphen"/>fore their deceaſe. And one of the principal Forgers (being ſerved with proceſs to appear and anſwer an Information of Forgery and Perjury late<g ref="char:EOLhyphen"/>ly exhibited againſt him) ſoon after, and before Juſtice could come to be<g ref="char:EOLhyphen"/>ſtow upon him his due reward, died: but one of his Champions, and Brother-Confederates in that horrid Iniquity, having ſurvived him, is now under proſecution for the ſame Crimes, which undoubtedly will be ſo fully and plainly proved, that 'twill be almoſt impoſſible any thing ſhould be wanting to do him right, ſave onely ſeverer Laws for his pu<g ref="char:EOLhyphen"/>niſhment; for ſuch hath been his confidence (as though unexpreſſible impudence were one of the leaſt ingredients in the compoſition of his Rogueries) that he hath confeſſed that he hath been Hired and Suborned to ſwear falſe for money, even ſince the Information exhibited againſt him) hath boldly affirm'd, that he neither regarded nor valued a Pillory, declaring that better men than himſelf were daily brought thither, and that 'twas but to have a little patience for an hour or two, and the whole buſineſs would ſoon receive a determination, and be over (with as much eaſe and little trouble) as a nine days wonder; which Language, without queſtion, is ve<g ref="char:EOLhyphen"/>ry agreeable to the reſt of his wicked Crew: So that 'tis plain the petit<g ref="char:EOLhyphen"/>neſs of the puniſhment uſually inflicted upon ſuch Offenders, makes them perſiſt the more obſtinately in the practiſe of their black and helliſh crimes: And therefore 'tis conceived the moſt probable way to abate their confi<g ref="char:EOLhyphen"/>dence and aſſwage their courage, is, to make and execute more ſtricter Laws againſt them, than yet there are in being.</p>
+            <p>Beſides, 'tis credibly reported, that this famous Artiſt (for all ſorts of notorious contrivances and miſchiefs) hath as great reputation for his Wit and Cunning in Forgery, amongſt all the Rogues and Knights of the Poſt about this Town, as ever any Criminal had that was hanged at <hi>Ty<g ref="char:EOLhyphen"/>burn,</hi> boaſting that he could ſo exactly counterfeit the hand-writing of
+<pb n="3" facs="tcp:110256:2" rendition="simple:additions"/>mens Names, that 'twas impoſſible to find out the cheat, unleſs the per<g ref="char:EOLhyphen"/>ſons whoſe Names were ſo counterfeited (he uſually dealing with the Names of dead men) ſhould ariſe out of their graves and ſwear that 'twas was none of their own hand-writing. And that he formerly got by his ſubtile tricks, at leaſt a 100
+<hi>
+                  <abbr>l.</abbr> per Annum</hi> from the Catholicks; it being his practice (about ſix or ſeven years ſince) to forge Writs againſt ſeveral Catholicks of good Quality, privately pretending that the ſame Writs re<g ref="char:EOLhyphen"/>gularly iſſued againſt them upon penal Statutes out of the Courts of <hi>Westminster</hi>-Hall, and thereby affrighted them (he being then a com<g ref="char:EOLhyphen"/>mon Informer) into ſecret Agreements, to pay him ſeveral ſums of mo<g ref="char:EOLhyphen"/>ny; whereas in truth there were never any ſuch Writs or Proceſs gran<g ref="char:EOLhyphen"/>ted out againſt thoſe perſons from whom he thus vexatiouſly extorted Money.</p>
+            <p>But to reſume, and give you one or two inſtances more, for all the reſt, of the great inconveniencies attending the faintneſs and deficiency of our Statute Laws (in point of puniſhment) againſt wilful and malicious For<g ref="char:EOLhyphen"/>gery and Perjury.</p>
+            <p>If any perſon lie in wait to wound or deface another, or if a High-way<g ref="char:EOLhyphen"/>man rob you (though onely of your traveling Coyn) he becomes thereby guilty of Felony, and according to Statute Law, he ought to be hang'd for it; beſides you have your remedy by the Statute (in the laſt caſe made and provided) to recover of the Hundred wherein you were Robbed, the vallue of all that was ſo taken from you: And this is concluded (as indeed it is) to be both reaſonable and juſt, but if a Knight of the Poſt (by premeditated and malicious Forgery and Perjury) ruin and undo honeſt men, and their Families, by taking away and deſtroying both of their Lives and Fortunes at once (as too too often by ſad and lamentable experience it hath hap<g ref="char:EOLhyphen"/>pened) yet in this caſe (by the Statute Laws, as now they are) there is no proviſion made, either to puniſh the malicious perjured perſon with death, as a juſt recompence and ſatisfaction to the Law of God, for ſhed<g ref="char:EOLhyphen"/>ding innocent blood, or to ſubject his Eſtate (if he have any) to make reſtitution to the injured perſons Family, for the loſs and ruin of his; which (<hi>prima facie,</hi> beſides the ill conſequences of it) ſeems to be a very ſevere and hard caſe; and wherein, in this caſe doth that juſt proportion lie (which ought to be) between the Puniſhment and the Crime? Or how is the puniſhment proportionable to the Offences, in the caſes of wilful Forgery and Perjury? when after a man ſhall be thereby utterly ruined and undone, he ſhall have no other remedy or ſatisfaction left, but (at the rate of great trouble and expence) the empty ſhouts and laughter of the Mobile and Rabble, with (it may be) the unwarrantable diſcharge of a few vollies of rotten Oranges and Eggs to the profligate and incorrigeable Villain, that ſtands in the Pillory.</p>
+            <p>'Tis therefore (and for other weighty reaſons, too tedious here to be expreſſed) high time (with ſubmiſſion to better judgements) both with reſpect to His Majeſties Intereſt, and the ſafety and ſecurity of His Kingdoms and People, that ſuch inconveniencies ſhould be remedied and redreſſed, and ſtricter Laws made (with greater puniſhments, than yet there are) againſt ſuch Offenders: for if it be contrary to principles of Juſtice and Reaſon, that ſuch Tranſgreſſors ſhould be exempt from puniſhments, adequate to their Crimes, then 'tis both reaſonable and juſt that a Law ſhould be made, to puniſh them according to their demerits: for <hi>Ratio est annima Legis.</hi>
+            </p>
+            <p>And in regard the grand Council of this Nation (by His Majeſties ſpecial Grace, and Favour) are now Aſſembled in Parliament; 'tis humbly offer<g ref="char:EOLhyphen"/>ed
+<pb n="4" facs="tcp:110256:3"/>to the ſerious Conſideration of His moſt Sacred Majeſty, and His great Counſel aſſembled, that ſuch a Statute Law may be made this Seſſion of Parliament, againſt wilful Forgery and Perjury, as may not onely tend to deſtroy that wicked Herd of perjured Sataniſts in this Kingdom, but to relieve and diſcharge thoſe that have been oppreſſed by their malicious contrivances, from the Judgments at Law obtained thereby; and curb their unbridled inſolencies for time to come, with Enacting that ſuch Crimes ſhall be made Felony, which certainly (notwithſtanding what can be rationally objected againſt it (after ſerious conſultation, and adviſing with the learned in the Law concerning the due qualifying, limitting, and well penning of ſuch an Act) will not at all (as ſome fancy) diſcourage honeſt and good men from a cheerful Swearing the Truth in Courts of Law and Juſtice, for the determination of Controverſies (their own into<g ref="char:EOLhyphen"/>reſt, and that moſt excellent rule of doing for others, as they would that they ſhould do for them, indiſpenſibly requiring it) but on the contrary, for the future will certainly afright and deter all Knights of the Poſt, and hackney Swearers, from offering any more to attempt the ruine either of Kings, Kingdoms. Societies or Families, by ſuch their moſt deſtructive Practices and Diabolical Crimes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Mark Pardoe</hi> over againſt <hi>Bedford</hi>-Houſe in the
+<hi>Strand.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
